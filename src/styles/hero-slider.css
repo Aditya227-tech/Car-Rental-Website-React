@@ -4,7 +4,7 @@
 }
 
 .slider__item-01 {
-  background: linear-gradient(rgba(199, 147, 218, 0.879), rgba(220, 188, 222, 0.836)),
+  background: linear-gradient(rgb(147, 151, 154), rgba(134, 146, 152, 0.836)),
     url("../assets/all-images/slider-img/slider-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -12,7 +12,7 @@
 }
 
 .slider__item-02 {
-  background: linear-gradient(rgba(211, 180, 215, 0.818), rgba(207, 190, 215, 0.5)),
+  background: linear-gradient(rgba(149, 155, 155, 0.818), rgba(163, 172, 173, 0.5)),
     url("../assets/all-images/slider-img/slider-2.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -20,7 +20,7 @@
 }
 
 .slider__item-03 {
-  background: linear-gradient(rgba(144, 128, 177, 0.5), rgba(137, 106, 192, 0.5)),
+  background: linear-gradient(rgba(144, 128, 177, 0.5), rgba(115, 114, 131, 0.5)),
     url("../assets/all-images/slider-img/slider-3.jpg");
   background-position: center;
   background-repeat: no-repeat;
