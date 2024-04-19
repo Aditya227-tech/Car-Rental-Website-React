@@ -4,24 +4,21 @@
 }
 
 .slider__item-01 {
-  background: linear-gradient(rgb(147, 151, 154), rgba(134, 146, 152, 0.836)),
-    url("../assets/all-images/slider-img/slider-1.jpg");
+  background: url("../assets/all-images/slider-img/slider-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .slider__item-02 {
-  background: linear-gradient(rgba(149, 155, 155, 0.818), rgba(163, 172, 173, 0.5)),
-    url("../assets/all-images/slider-img/slider-2.jpg");
+  background: url("../assets/all-images/slider-img/slider-2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .slider__item-03 {
-  background: linear-gradient(rgba(144, 128, 177, 0.5), rgba(115, 114, 131, 0.5)),
-    url("../assets/all-images/slider-img/slider-3.jpg");
+  background: url("../assets/all-images/slider-img/slider-3.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
